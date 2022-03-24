@@ -1,3 +1,7 @@
 .flashy {
   color: red;
 }
+
+.my-class {
+  border: 2px solid green;
+}
